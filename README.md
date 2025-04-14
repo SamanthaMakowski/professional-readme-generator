@@ -42,6 +42,9 @@
   - GitHub: [SamanthaMakowski](https://github.com/SamanthaMakowski)
   - Email: samm.makowski@gmail.com
   
-  ## Walkthrough Video
+## Walkthrough Video
 
-[Click here to watch the walkthrough](https://www.loom.com/share/2b0b479e92a74dfdb5ca1f4c3a45b77e)
+[Click here to watch the walkthrough](https://www.loom.com/share/2b0b479e92a74dfdb5ca1f4c3a45b77e?sid=bde17a49-9cd4-4bc0-bb0d-b12825ad7dc2)
+
+
+> Note: The `.gitignore` file has been added to the correct location after the video recording.
